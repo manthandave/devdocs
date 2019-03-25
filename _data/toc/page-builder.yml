@@ -129,9 +129,9 @@ pages:
     url: /page-builder/docs/how-to/how-to-use-server-side-previews.html
     versionless: true
 
-  - label: How to create a container content type
-    url: /page-builder/docs/how-to/how-to-create-container-content-type.html
-    versionless: true
+#  - label: How to create a container content type
+#    url: /page-builder/docs/how-to/how-to-create-container-content-type.html
+#    versionless: true
 
   - label: How to use Page Builder for product attributes
     url: /page-builder/docs/how-to/how-to-use-pagebuilder-for-product-attributes.html
