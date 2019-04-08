@@ -81,7 +81,6 @@ The Magento_Shipping module adds a component rendered as a link to the Shipping 
         </referenceBlock>
     </body>
 </page>
-
 ```
 
 ## Add the new component to the checkout page layout {#add}
